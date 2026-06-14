@@ -96,7 +96,7 @@ const resumeDownload = document.getElementById("resumeDownload");
 
 if (resumeDownload) {
   resumeDownload.addEventListener("click", () => {
-    const pdfUrl = "assets/DanielCV.pdf";
+    const pdfUrl = "DanielCV.pdf";
 
     const newTab = window.open("", "_blank");
 
