@@ -52,7 +52,7 @@ Analyzed student performance trends and academic outcomes through interactive da
 
 Visit the portfolio here:
 
-[Portfolio Link]([https://your-portfolio-link](https://daniel-j77.github.io/Data-Analyst-Portfolio/))
+https://daniel-j77.github.io/Data-Analyst-Portfolio/
 
 ## Contact
 
