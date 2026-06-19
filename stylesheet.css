@@ -850,8 +850,11 @@ border-radius: 0.5rem;
 
 /* Pandas */
 .tag-pandas:hover{
-  color:#150458;
-  border-color:#150458;
+  color: #fff;
+  border-color: #150458;
+  background: rgba(21, 4, 88, 0.25);
+  box-shadow: 0 0 10px #150458,
+              0 0 20px #150458 !important;
 }
 
 /* NumPy */
