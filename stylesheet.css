@@ -1236,3 +1236,10 @@ html {
     line-height:1.8;
   }
 }
+.internship-title{
+  font-weight: 700;
+  margin-left: 15px; 
+  margin-top: 10px;
+  margin-bottom: 8px;
+  color: #fff;
+}
